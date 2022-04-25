@@ -91,9 +91,10 @@ ___
 <div style="display:flex;align-items:center">
 
 <div style="display:flex;align-items:center">
-<!--     <div> -->
-        <h5> <a href='..'> Mr. Fenosoa </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
-<!-- <div> -->
+    <div>
+        <h5> <a href='..'> Mr. Fenosoa </a> </h5> 
+<!--       <img src="images/cat.0.jpg" height= 7% width= 7%> -->
+<div>
 <!--     <h5> <a href='.'> Mr. B </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%> -->
     
 <!-- <div> -->
