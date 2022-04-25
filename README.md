@@ -47,16 +47,16 @@ $ pip install -r requirements.txt
 # Training the model #
 
 ```
-$ python3 main.py --model MODEL_NAME --num_epochs
+$ python3 main.py --model_name MODEL_NAME --num_epochs
 ```
 ## Example of running models ##
 
 ```
-$ python3 main.py --model resnet --10
+$ python3 main.py --model_name resnet --10
 ```
 
 ```
-$ python3 main.py --model cnn --10
+$ python3 main.py --model_name cnn --10
 ```
 
 # Results Presentation
