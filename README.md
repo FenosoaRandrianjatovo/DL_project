@@ -61,9 +61,9 @@ $ python3 main.py --model cnn --10
 
 # Results Presentation
 
-``` CNN result```  </br>`
+``` CNN result```  </br>
 ![caption](figures/train_CNN.png) 
-`` Resnet result```  </br>
+``` Resnet result```  </br>
 ![caption](figures/train_resnet.png) 
 
 # Make prediction #
