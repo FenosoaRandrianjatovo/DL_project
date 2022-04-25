@@ -1,0 +1,7 @@
+$ python3 -m venv project
+$ source project/bin/activate
+$ pip list
+$ deactivate
+$ pip list 
+
+torch, pandas, torchvision, matplotlib
