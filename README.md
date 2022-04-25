@@ -87,7 +87,7 @@ ___
 * <a href= 'https://cs.nju.edu.cn/wujx/paper/CNN.pdf'> Convolutional neural networks</a>
 
 
-# Contributors #
+# Contributor #
 <div style="display:flex;align-items:center">
 
 <div style="display:flex;align-items:center">
