@@ -73,7 +73,7 @@ $python3 predict.py --image_path "./data/Images/cat.0.jpg"
 ```
 
 ``` Example: Result```  </br>
-![caption](images/cat.0.jpg) </br>
+![caption](figures/cat.0.jpg) </br>
 {'class': 'cat', 'confidence': '0.5970718264579773'}
 ---
 ___
@@ -91,12 +91,12 @@ ___
 <div style="display:flex;align-items:center">
 
 <div style="display:flex;align-items:center">
-    <div>
-        <h5> <a href='..'> Mr. A </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
-<div>
-    <h5> <a href='.'> Mr. B </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
+<!--     <div> -->
+        <h5> <a href='..'> Mr. Fenosoa </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
+<!-- <div> -->
+<!--     <h5> <a href='.'> Mr. B </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%> -->
     
-<div>
-    <h5> <a href='.'> Mm. K </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%>
+<!-- <div> -->
+<!--     <h5> <a href='.'> Mm. K </a> </h5> <img src="images/cat.0.jpg" height= 7% width= 7%> -->
     
 </div>
