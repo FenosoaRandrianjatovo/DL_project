@@ -62,7 +62,7 @@ $ python3 main.py --model cnn --10
 # Results Presentation
 
 ``` CNN result```  </br>
-![caption](figures/train_CNN.png) 
+![caption](figures/train_CNN.png) </br>
 ``` Resnet result```  </br>
 ![caption](figures/train_resnet.png) 
 
