@@ -3,5 +3,6 @@ $ source project/bin/activate
 $ pip list
 $ deactivate
 $ pip list 
+$ pip freeze
 
 torch, pandas, torchvision, matplotlib
